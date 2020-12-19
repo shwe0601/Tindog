@@ -1,1 +1,3 @@
-TinDog Starting Files
+TinDog 
+ A website made exclusively for Dogs.
+ 
